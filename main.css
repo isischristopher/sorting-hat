@@ -1,3 +1,19 @@
 body{
     background-color: #ffb300;
  }
+
+ .body{
+     color: #009688;
+     font-family: 'Tangerine', serif;
+ }
+h1.display-4{
+    text-align: center;
+
+}
+.startSorting{
+    text-align: center;
+}
+
+.jumbotron{
+    font-family: futura-pt, sans-serif;
+}
